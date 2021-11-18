@@ -1,0 +1,15 @@
+{
+    "Grocery":[
+      {"Serial":"1", "Name":"Coconut oil", "Quantity":"2", "Unit":"kg", "Department":"Oil and Ghee", "Notes":"Sabari Brand"},
+      {"Serial":"2", "Name":" Tomato", "Quantity":"1", "Unit":"kg", "Department":"Vegetable", "Notes":"NA"},
+      {"Serial":"3", "Name":"Potato", "Quantity":"2", "Unit":"kg", "Department":"Vegetable", "Notes":"NA"},
+      {"Serial":"4", "Name":"milk", "Quantity":"2", "Unit":"Litre", "Department":"Milk & Butter", "Notes":"Milma Brand"},
+      {"Serial":"5", "Name":"Rice", "Quantity":"20", "Unit":"kg", "Department":"Grains", "Notes":"Double hourse brand"},
+      {"Serial":"6", "Name":"Beans", "Quantity":"1 ", "Unit":"kg", "Department":"Vegetable", "Notes":"NA"},
+      {"Serial":"7", "Name":"Onion", "Quantity":"1", "Unit":"kg", "Department":"Vegetable", "Notes":"NA"},
+      {"Serial":"8", "Name":"Fruity", "Quantity":"2 ", "Unit":"Bottle", "Department":" Soft Drink", "Notes":"Frooty Brand"},
+      {"Serial":"9", "Name":"Plum cake", "Quantity":"2", "Unit":"Number", "Department":"Bakery", "Notes":"NA"},
+      {"Serial":"10", "Name":"Bread", "Quantity":"1", "Unit":"Number", "Department":"Bakery", "Notes":"NA"}
+    ]
+    
+}
